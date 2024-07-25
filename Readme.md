@@ -16,4 +16,6 @@ Through this project, you will be enlightened with the practical knowledge of Ma
 
 5. Now, you can run your project on Streamlit. Predict the price of the laptop..!!
 
-4. This project was very useful to understand the concepts of ML. It is also useful to learn and experience google colab, jupyter notebook, scikit-learn, pandas, streamlit and micro-deployment.
+6. This project was very useful to understand the concepts of ML. It is also useful to learn and experience google colab, jupyter notebook, scikit-learn, pandas, streamlit and micro-deployment.
+
+7. Reference : https://www.youtube.com/watch?v=BgpM2IiCH6k
